@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">mr Testing Task</string>
+    <string name="hint_search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="error">Something went wrong</string>
+    <string name="add_staff">Add staff</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="position">Должность</string>
+    <string name="office">Отдел</string>
+    <string name="city">Город</string>
+    <string name="record_added">Record added/updated</string>
+    <string name="record_added_error">Error on record adding/updating, try again</string>
+    <string-array name="sortItems">
+        <item>"Имя"</item>
+        <item>"Фамилия"</item>
+        <item>"Должность"</item>
+        <item>"Отдел"</item>
+        <item>"Город"</item>
+    </string-array>
+</resources>
